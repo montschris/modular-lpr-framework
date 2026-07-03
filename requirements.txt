@@ -1,0 +1,10 @@
+torch
+opencv-python
+pillow
+numpy
+pandas
+matplotlib
+ultralytics
+paddleocr
+scikit-image
+real-esrgan

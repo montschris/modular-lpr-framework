@@ -1,0 +1,9 @@
+# data.yaml
+# NOTE: Training/validation images are not included in this submission
+# Please update the 'path' below with the location of your dataset if you wish to train
+
+path: data/Dataset_LP
+train: train/images
+val: valid/images
+names:
+  0: license_plate
