@@ -52,20 +52,6 @@ https://doi.org/10.1109/IDAP68205.2025.11222230
 
 ---
 
-## 🏗️ Framework Architecture
-
-*Insert your framework/pipeline image here.*
-
-Example:
-
-```markdown
-![Framework Architecture](images/pipeline.png)
-```
-
-Create an `images/` folder in your repository and place your pipeline image inside it.
-
----
-
 ## 📂 Project Structure
 
 ```text
@@ -150,10 +136,6 @@ If you use this repository in your research, please cite our paper:
   doi={10.1109/IDAP68205.2025.11222230}
 }
 ```
-
-The published paper can also be accessed via:
-
-https://doi.org/10.1109/IDAP68205.2025.11222230
 
 ---
 
