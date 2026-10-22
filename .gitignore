@@ -30,3 +30,12 @@ outputs/
 # weights/
 # *.pt
 # *.pth
+
+# Real-ESRGAN model weights
+Real-ESRGAN/weights/
+
+# Real-ESRGAN sample inputs
+Real-ESRGAN/inputs/
+
+# Real-ESRGAN test datasets
+Real-ESRGAN/tests/data/
